@@ -1,0 +1,16 @@
+.video {
+	max-width: 800px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	top: 50%;
+
+	position: fixed;
+	left: 50%;
+	margin-left: -400px;
+	margin-top: -300px;
+}
+video {
+	max-width: 100%;
+}
